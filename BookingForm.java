@@ -5,7 +5,7 @@ import java.awt.*;
 import java.sql.*;
 import java.time.LocalDate;
 
-import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
+//import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
 
 public class BookingForm extends JFrame {
 
